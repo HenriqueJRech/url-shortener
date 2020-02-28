@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/HenriqueJRech/url-shortener) 
+
 # URL Shortener Service
 
 > API to create short urls using Node, Express and MongoDB
